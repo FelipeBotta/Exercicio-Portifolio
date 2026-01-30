@@ -149,4 +149,8 @@
     position: initial;
     margin-bottom: 10px;
   }
+
+  .formacao-container::after {
+    display: none;
+  }
 }
